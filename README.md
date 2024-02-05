@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @koushik-thota
-- 👀 I’m Senior CLoud Architect
+- 👀 I’m Senior Cloud Architect 
 - 💞️ I’m looking to collaborate on AI with Cloud
 - 📫 You can reach me on @ koushik.thota@gmail.com
 
